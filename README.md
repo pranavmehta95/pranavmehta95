@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Pranav Mehta — a passionate learner and tech enthusiast with a strong interest in Data Science, Artificial Intelligence, and Full Stack Web Development.<br><br>🔍 I love exploring how data can solve real-world problems, and I’m equally excited about building intelligent systems and scalable web applications.<br><br>📚 Always eager to learn something new — whether it’s a new framework, algorithm, or design pattern.<br><br>💡 Open to collaboration on projects, internships, and research opportunities related to AI, DS, or web dev.<br><br>📫 Let’s connect: [pranavmehta192@gmail.com]
+👋 Hi, I’m Pranav Kumar — a passionate learner and tech enthusiast with a strong interest in Data Science, Artificial Intelligence, and Full Stack Web Development.<br><br>🔍 I love exploring how data can solve real-world problems, and I’m equally excited about building intelligent systems and scalable web applications.<br><br>📚 Always eager to learn something new — whether it’s a new framework, algorithm, or design pattern.<br><br>💡 Open to collaboration on projects, internships, and research opportunities related to AI, DS, or web dev.<br><br>📫 Let’s connect: [pranavmehta192@gmail.com]
 
 
 ## 🌐 Socials:
